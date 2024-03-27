@@ -20,14 +20,14 @@ const PriceCard = () => {
           <p>Full access for less than $1 a day</p>
           <button
             onClick={() => {
-              alert("clicked");
+              alert("Clicked");
             }}
           >
             Sign Up
           </button>
         </div>
         <div id="bottom-right-section">
-          <h4>Why us</h4>
+          <h4>Why Us</h4>
           <ul>
             <li>Tutorials by industry experts</li>
             <li>Peer & expert code review</li>
